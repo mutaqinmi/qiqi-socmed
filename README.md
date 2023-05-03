@@ -1,2 +1,2 @@
 # qiqi-socmed
-Just a project
+Simple sign in and sign up system with PHP Native
